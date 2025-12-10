@@ -83,7 +83,10 @@ SnakeGame/
 
 ## 📸 Screenshots
 
-*(Add screenshots of your game here if available)*
+<img width="747" height="797" alt="image" src="https://github.com/user-attachments/assets/47b564f0-ff76-4ff0-be40-2ef3ad81218f" />
+<img width="758" height="796" alt="image" src="https://github.com/user-attachments/assets/6f1d7989-622d-4bcb-9fd5-0c86761d9180" />
+
+
 
 ---
 
