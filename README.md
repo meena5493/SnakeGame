@@ -94,11 +94,3 @@ SnakeGame/
 * Pause & resume
 * Difficulty levels
 * Mobile version
-
-
-
-This project is licensed under the **MIT License** — free to use and modify.
-
----
-
-If you want, I can also generate a **README tailored to your exact code**, or convert this into **GitHub-ready markdown** ⭐
